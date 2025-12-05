@@ -1,5 +1,9 @@
 const intro = {
     name: 'Anna',
     age: 19,
-    favourite-programming-language: 'JavaScript'
+    favouriteProgrammingLanguage: 'JavaScript'
 };
+
+console.log(intro.name);
+console.log(intro.age);
+console.log(intro.favouriteProgrammingLanguage);
